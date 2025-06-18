@@ -48,5 +48,5 @@ Evaluate performance metrics (R², MAE, RMSE)
 
 Visualize predictions and residuals
 
-Deploy model via a simple API or dashboard (optional)
+
 
