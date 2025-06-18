@@ -1,5 +1,5 @@
 # week1
-🌱 Carbon Emissions Prediction from Country-Specific Data
+🌱 Carbon Emissions Prediction 
 
 This project predicts CO₂ emissions using historical, country-level environmental and economic data. Built in Python using Jupyter Notebooks, it showcases steps from data preparation and exploratory analysis to feature selection and model building.
 
