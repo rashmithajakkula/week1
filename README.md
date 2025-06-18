@@ -30,17 +30,6 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-📁 Structure
-bash
-Copy
-Edit
-carbon-emissions/
-│
-├── 1_data_preparation.ipynb   # Data cleaning and preprocessing steps
-├── data/                      # Raw dataset
-├── models/                    # (To be added: trained model files)
-├── README.md                  # Project overview
-└── requirements.txt           # Package dependencies
 📊 Features of the Dataset
 Country name and region
 
