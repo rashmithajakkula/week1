@@ -1,52 +1,20 @@
-# carbon emission prediction
-🌱 Carbon Emissions Prediction 
 
-This project predicts CO₂ emissions using historical, country-level environmental and economic data. Built in Python using Jupyter Notebooks, it showcases steps from data preparation and exploratory analysis to feature selection and model building.
+# Carbon Emissions Prediction - AICTE Internship
 
-📌 Project Overview
-This notebook is focused on:
+This project aims to predict the CO2 emission from various parameters such as country, population-specific parameters, economic indicators, land-related, energy use, etc. Our aim is to clean the data, explore it, and make a predictive analysis. Using a robust algorithm, we predict the future values of GHG emissions, mainly CO2.
 
-Cleaning and preparing the dataset
-
-Handling missing values and outliers
-
-Normalizing and transforming variables
-
-Encoding categorical features for ML models
-
-It serves as the foundational data preprocessing step for the broader goal: predicting CO₂ emissions based on features like energy use, population, industry growth, etc.
-
-🧠 Objective
-To develop a machine learning-ready dataset that can accurately predict carbon emissions by country using various socio-economic indicators.
-
-🛠️ Technologies Used
-Python
-
-Pandas, NumPy
-
-Scikit-learn
-
-Matplotlib, Seaborn
-
-Jupyter Notebook
-
-📊 Features of the Dataset
-Country name and region
-
-Yearly emissions data
-
-Population and GDP
-
-Energy consumption metrics (coal, gas, oil)
-
-Industrial and transportation statistics
-
-🔍 Next Steps
-Build regression and ensemble models (e.g., Linear Regression, Random Forest)
-
-Evaluate performance metrics (R², MAE, RMSE)
-
-Visualize predictions and residuals
+**Link to the Model:**
+https://drive.google.com/file/d/1R08mOGPySz174lsbmb5J5W52HTeegP_L/view?usp=sharing
 
 
+## Required Libraries
+```pip install numpy pandas seaborn streamlit matplotlib scikit-learn```
+    
+## Steps
+
+- Data Preparation
+
+- Data Exploration
+
+- Model Building and Prediction
 
